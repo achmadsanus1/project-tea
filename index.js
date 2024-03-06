@@ -1,7 +1,7 @@
 const count = require('text-count');
 
-function project-tea() {
-  const text = "P R O J E C T T E A"
+function achmad() {
+  const text = "A C H M A D"
   return {
     text,
     length: count.charCount(text)
@@ -9,4 +9,4 @@ function project-tea() {
 }
 
 
-module.exports = project-tea
+module.exports = Achmad
