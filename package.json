@@ -1,5 +1,5 @@
 {
-  "name": "project-tea",
+  "name": "achmad-project-tea",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
@@ -11,9 +11,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "project-tea"
+    "achmad"
   ],
-  "author": "project-tea",
+  "author": "achmad",
   "license": "ISC",
   "dependencies": {
     "text-count": "^1.1.0"
